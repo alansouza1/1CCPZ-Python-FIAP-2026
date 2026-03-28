@@ -5,11 +5,10 @@ Este repositório contém os exercícios, desafios e projetos desenvolvidos dura
 
 ## 🚀 Estrutura do Repositório
 
-O repositório está organizado por aulas e temas:
+O repositório está organizado por aulas e temas dentro da pasta `exercicios/`:
 
-- `aula02-variaveis-operadores/`: Conceitos básicos de variáveis, tipos de dados e operadores matemáticos/lógicos.
-    - `aula02a-variaveis.py`: Exemplos práticos de declaração e manipulação de variáveis.
-    - `desafios.py`: Resolução dos desafios propostos em aula.
+- `exercicios/aula01-conceitos-basicos/`: Introdução à linguagem Python e lógica básica.
+- `exercicios/aula02-variaveis-operadores/`: Conceitos de variáveis, tipos de dados e operadores matemáticos/lógicos.
 
 ## 🛠️ Pré-requisitos
 
@@ -24,11 +23,11 @@ Para executar os códigos deste repositório, você precisará de:
    ```bash
    git clone https://github.com/seu-usuario/1CCPZ-Python-FIAP-2026.git
    ```
-2. Acesse a pasta do exercício desejado:
+2. Acesse a pasta do exercício desejado, por exemplo:
    ```bash
-   cd aula02-variaveis-operadores
+   cd exercicios/aula02-variaveis-operadores
    ```
-3. Execute o script:
+3. Execute o script Python:
    ```bash
    python aula02a-variaveis.py
    ```
