@@ -1,5 +1,5 @@
-# FIAP - Computer Science (1CCPZ) 🎓
-## Python Programming - 2026
+# FIAP - Ciência da Computação (1CCPZ) 🎓
+## Programação em Python - 2026
 
 Este repositório contém os exercícios, desafios e projetos desenvolvidos durante a disciplina de Python no curso de Ciência da Computação da FIAP.
 
@@ -15,7 +15,6 @@ O repositório está organizado por aulas e temas dentro da pasta `exercicios/`:
 Para executar os códigos deste repositório, você precisará de:
 
 - Python 3.10 ou superior
-- VS Code (recomendado com as extensões de Python da Microsoft)
 
 ## ⚙️ Como executar
 
@@ -25,11 +24,11 @@ Para executar os códigos deste repositório, você precisará de:
    ```
 2. Acesse a pasta do exercício desejado, por exemplo:
    ```bash
-   cd exercicios/aula02-variaveis-operadores
+   cd exercicios/aula01-conceitos-basicos
    ```
 3. Execute o script Python:
    ```bash
-   python aula02a-variaveis.py
+   python atividade1.py
    ```
 
 ## 📝 Licença
