@@ -8,5 +8,5 @@ preco_total_canetas = preco_caneta * quantidade_caneta
 
 preco_final = preco_total_livros + preco_total_canetas
 
-print(f"O valor total gasto foi de {preco_final}")
+print(f"O valor total gasto foi de R$ {preco_final:.2f}")
 

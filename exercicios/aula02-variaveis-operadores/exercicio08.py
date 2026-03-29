@@ -11,5 +11,5 @@ peca2_total = peca2_preco * quantidade_peca2
 
 valor_pago = peca1_total + peca2_total
 
-print(f"O valor total a ser pago dos produtos {peca1} e {peca2} será de {valor_pago}.")
+print(f"O valor total a ser pago dos produtos {peca1} e {peca2} será de R${valor_pago:.2f}.")
 
