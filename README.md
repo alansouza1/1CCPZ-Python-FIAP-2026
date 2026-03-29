@@ -24,11 +24,11 @@ Para executar os códigos deste repositório, você precisará de:
    ```
 2. Acesse a pasta do exercício desejado, por exemplo:
    ```bash
-   cd exercicios/aula01-conceitos-basicos
+   cd exercicios/aula0
    ```
 3. Execute o script Python:
    ```bash
-   python atividade1.py
+   python exercicio.py
    ```
 
 ## 📝 Licença
